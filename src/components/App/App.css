@@ -1,0 +1,10 @@
+.App {
+	width: 800px;
+	background: #fff;
+	padding: 30px;
+	border-radius: 8px;
+}
+
+.ant-input-prefix {
+	margin-right: 10px !important;
+}
